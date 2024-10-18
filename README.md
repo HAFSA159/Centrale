@@ -12,7 +12,7 @@ L'objectif principal est de fournir une plateforme robuste et sécurisée permet
 
 ## Technologies utilisées
 
-- Java 8
+- Java 8 
 - Maven pour la gestion des dépendances
 - Thymeleaf comme moteur de template
 - JPA et Hibernate pour la persistance des données
@@ -111,6 +111,7 @@ Diagramme des cas d'utilisation illustrant les interactions possibles entre les 
 Chaque cas d'utilisation détaille une fonctionnalité principale du système.
 
 ![Diagramme d'Utilisation UML](src/main/webapp/assets/img/Diagcase.PNG)
+
 **Jira**
 
 Capture d'écran de l'outil Jira utilisé pour la gestion des tâches du projet. Chaque tâche est catégorisée et suivie avec des statuts comme 'À faire', 'En cours', et 'Terminé'.
@@ -136,7 +137,6 @@ Vue détaillée du tableau de bord,des indicateurs de performance pour suivre l'
 ![Figma](src/main/webapp/assets/img/dashboard2.PNG)
 
 ## Améliorations futures possibles
-
 
 - Intégration d'un système de paiement en ligne
 - Implémentation d'un système de notifications par email
